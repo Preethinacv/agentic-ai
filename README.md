@@ -1,3 +1,5 @@
 # agentic-ai
 
-Document comparer
+
+
+Document comparer using RAG 
